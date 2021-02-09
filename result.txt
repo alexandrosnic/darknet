@@ -1,0 +1,4086 @@
+ GPU isn't used 
+mini_batch = 1, batch = 1, time_steps = 1, train = 0 
+
+ seen 64, trained: 1536 K-images (24 Kilo-batches_64) 
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655865697.png: Predicted in 3169.548000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892606_mirror.png: Predicted in 2627.759000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655864817.png: Predicted in 2513.755000 milli-seconds.
+human: 100%
+human: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655895916.png: Predicted in 2525.703000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655867348.png: Predicted in 2547.665000 milli-seconds.
+right: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655858493.png: Predicted in 2589.281000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655895641_mirror.png: Predicted in 2512.287000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887451.png: Predicted in 2497.983000 milli-seconds.
+right: 74%
+curve_left: 55%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655856018.png: Predicted in 2511.877000 milli-seconds.
+slippery: 100%
+right: 99%
+curve_left: 88%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655879567.png: Predicted in 2479.713000 milli-seconds.
+slippery: 100%
+curve_left: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887341_mirror.png: Predicted in 2488.560000 milli-seconds.
+curve_left: 91%
+right: 55%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760179459.png: Predicted in 2633.217000 milli-seconds.
+stop: 100%
+stop: 100%
+right: 100%
+construction: 48%
+curve_right: 26%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760180339.png: Predicted in 2612.840000 milli-seconds.
+curve_right: 56%
+construction: 81%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655868283.png: Predicted in 2547.209000 milli-seconds.
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760159744.png: Predicted in 2723.700000 milli-seconds.
+parking: 100%
+right: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655871427_mirror.png: Predicted in 3050.056000 milli-seconds.
+right: 94%
+curve_left: 53%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655859867.png: Predicted in 3157.389000 milli-seconds.
+construction: 50%
+curve_right: 48%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891836.png: Predicted in 2499.991000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892716_mirror.png: Predicted in 3322.427000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857393_mirror.png: Predicted in 2512.689000 milli-seconds.
+curve_right: 47%
+construction: 39%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655897895.png: Predicted in 2500.885000 milli-seconds.
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891176.png: Predicted in 2733.208000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655865367_mirror.png: Predicted in 2520.383000 milli-seconds.
+curve_left: 75%
+right: 25%
+right: 97%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655895696_mirror.png: Predicted in 2516.464000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655867567.png: Predicted in 2540.211000 milli-seconds.
+right: 70%
+curve_left: 47%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857502_mirror.png: Predicted in 2529.333000 milli-seconds.
+curve_right: 66%
+construction: 70%
+lane: 100%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760199626.png: Predicted in 2555.862000 milli-seconds.
+lane: 100%
+curve_left: 68%
+right: 28%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655886845.png: Predicted in 2552.879000 milli-seconds.
+lane: 100%
+right: 52%
+curve_left: 55%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760159139.png: Predicted in 2545.809000 milli-seconds.
+parking: 100%
+right: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655888056.png: Predicted in 2518.785000 milli-seconds.
+curve_right: 59%
+construction: 76%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655863662_mirror.png: Predicted in 2584.477000 milli-seconds.
+right: 57%
+curve_left: 91%
+curve_left: 45%
+right: 96%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655856623_mirror.png: Predicted in 2767.370000 milli-seconds.
+right: 90%
+curve_left: 89%
+right: 70%
+curve_left: 38%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873353.png: Predicted in 2931.882000 milli-seconds.
+right: 68%
+curve_left: 50%
+curve_left: 95%
+right: 54%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655879402.png: Predicted in 3757.606000 milli-seconds.
+slippery: 100%
+curve_left: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760164789.png: Predicted in 3247.162000 milli-seconds.
+lane: 99%
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655856238.png: Predicted in 2595.432000 milli-seconds.
+slippery: 100%
+right: 99%
+curve_left: 97%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887671_mirror.png: Predicted in 2639.798000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760172689.png: Predicted in 2801.795000 milli-seconds.
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655867732_mirror.png: Predicted in 2930.361000 milli-seconds.
+curve_left: 64%
+right: 94%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655895972_mirror.png: Predicted in 2995.146000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655856457_mirror.png: Predicted in 2659.541000 milli-seconds.
+curve_left: 44%
+right: 67%
+right: 78%
+curve_left: 72%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892716.png: Predicted in 3231.313000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655856897.png: Predicted in 3445.986000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760164239_mirror.png: Predicted in 2581.781000 milli-seconds.
+curve_left: 59%
+right: 43%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896576.png: Predicted in 2562.928000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760165284.png: Predicted in 2569.851000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760175909.png: Predicted in 2562.933000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655863717.png: Predicted in 2612.095000 milli-seconds.
+right: 42%
+curve_left: 79%
+right: 60%
+curve_left: 48%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891561.png: Predicted in 2568.640000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655862617_mirror.png: Predicted in 2900.542000 milli-seconds.
+right: 63%
+curve_left: 49%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857777.png: Predicted in 2582.666000 milli-seconds.
+lane: 100%
+stop: 100%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655879127.png: Predicted in 3305.823000 milli-seconds.
+curve_left: 79%
+right: 46%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760180339_mirror.png: Predicted in 2858.852000 milli-seconds.
+construction: 69%
+curve_right: 58%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655879072_mirror.png: Predicted in 2712.037000 milli-seconds.
+right: 70%
+curve_left: 41%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655879348.png: Predicted in 2754.347000 milli-seconds.
+slippery: 100%
+curve_left: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655895531_mirror.png: Predicted in 2813.930000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655871537.png: Predicted in 3071.816000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891671.png: Predicted in 3723.291000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655868612.png: Predicted in 3175.330000 milli-seconds.
+human: 47%
+human: 89%
+human: 83%
+human: 51%
+human: 97%
+human: 98%
+human: 80%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655864102.png: Predicted in 3385.942000 milli-seconds.
+curve_left: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655878907.png: Predicted in 3349.110000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887395_mirror.png: Predicted in 2964.372000 milli-seconds.
+curve_left: 91%
+right: 62%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760173929.png: Predicted in 2756.567000 milli-seconds.
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760200067.png: Predicted in 2609.141000 milli-seconds.
+lane: 100%
+curve_left: 56%
+right: 49%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655859978.png: Predicted in 2605.077000 milli-seconds.
+curve_right: 45%
+construction: 68%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655874012.png: Predicted in 2610.942000 milli-seconds.
+right: 63%
+curve_left: 44%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655859317.png: Predicted in 2793.615000 milli-seconds.
+right: 72%
+curve_left: 95%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655872582.png: Predicted in 3470.447000 milli-seconds.
+parking: 100%
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655868064.png: Predicted in 3204.618000 milli-seconds.
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655871372.png: Predicted in 3097.010000 milli-seconds.
+curve_left: 89%
+right: 92%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760175249_mirror.png: Predicted in 3395.228000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655856569_mirror.png: Predicted in 3116.347000 milli-seconds.
+right: 98%
+curve_left: 38%
+right: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655859207.png: Predicted in 2609.155000 milli-seconds.
+right: 50%
+curve_left: 57%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655855357_mirror.png: Predicted in 2661.803000 milli-seconds.
+right: 61%
+curve_left: 40%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896852.png: Predicted in 2914.494000 milli-seconds.
+right: 74%
+curve_left: 41%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760158809.png: Predicted in 2618.836000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655877422_mirror.png: Predicted in 2928.802000 milli-seconds.
+right: 81%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891947_mirror.png: Predicted in 2822.356000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655866248_mirror.png: Predicted in 2726.099000 milli-seconds.
+right: 48%
+curve_left: 44%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887725_mirror.png: Predicted in 2963.996000 milli-seconds.
+curve_left: 62%
+right: 58%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896466_mirror.png: Predicted in 2969.566000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655895586.png: Predicted in 2759.925000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655864707.png: Predicted in 2620.793000 milli-seconds.
+human: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896631.png: Predicted in 2611.705000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655867238_mirror.png: Predicted in 2757.009000 milli-seconds.
+right: 95%
+curve_left: 80%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887671.png: Predicted in 2732.709000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760166649.png: Predicted in 2603.439000 milli-seconds.
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891891_mirror.png: Predicted in 2727.456000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857172.png: Predicted in 2694.855000 milli-seconds.
+lane: 99%
+construction: 54%
+curve_right: 53%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760172854.png: Predicted in 2615.499000 milli-seconds.
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892441.png: Predicted in 2700.761000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655862067.png: Predicted in 3053.815000 milli-seconds.
+right: 75%
+curve_left: 30%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891781.png: Predicted in 2727.234000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760166484.png: Predicted in 2752.540000 milli-seconds.
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655871317.png: Predicted in 2871.862000 milli-seconds.
+right: 68%
+curve_left: 53%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655890956_mirror.png: Predicted in 3083.367000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655862397.png: Predicted in 3079.694000 milli-seconds.
+parking: 100%
+parking: 100%
+right: 95%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655893761.png: Predicted in 2658.315000 milli-seconds.
+unknown : 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655861244.png: Predicted in 2778.331000 milli-seconds.
+right: 99%
+curve_left: 59%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760159359.png: Predicted in 2723.213000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655861133.png: Predicted in 2687.958000 milli-seconds.
+slippery: 100%
+curve_left: 98%
+right: 58%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760199681.png: Predicted in 2735.461000 milli-seconds.
+lane: 100%
+curve_left: 70%
+right: 93%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655871977.png: Predicted in 2854.122000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655866467.png: Predicted in 2885.458000 milli-seconds.
+right: 68%
+curve_left: 35%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655859153.png: Predicted in 2863.214000 milli-seconds.
+right: 82%
+curve_left: 26%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887230.png: Predicted in 2877.589000 milli-seconds.
+lane: 100%
+right: 95%
+curve_left: 52%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655861463.png: Predicted in 2681.093000 milli-seconds.
+right: 52%
+curve_left: 51%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760164404.png: Predicted in 2699.346000 milli-seconds.
+stop: 100%
+curve_left: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655856293.png: Predicted in 2788.811000 milli-seconds.
+right: 96%
+curve_left: 52%
+right: 68%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760172256.png: Predicted in 2694.452000 milli-seconds.
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655861188_mirror.png: Predicted in 2775.822000 milli-seconds.
+right: 93%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655868997.png: Predicted in 2667.949000 milli-seconds.
+human: 100%
+human: 100%
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887285_mirror.png: Predicted in 2809.730000 milli-seconds.
+right: 50%
+curve_left: 59%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655875003.png: Predicted in 3125.294000 milli-seconds.
+slippery: 100%
+right: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655861353.png: Predicted in 3014.183000 milli-seconds.
+curve_left: 29%
+right: 74%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655858602_mirror.png: Predicted in 3023.608000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892056_mirror.png: Predicted in 3030.898000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891286_mirror.png: Predicted in 3080.693000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760159469.png: Predicted in 3081.746000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655890956.png: Predicted in 3071.943000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655868667.png: Predicted in 3079.651000 milli-seconds.
+parking_spot: 100%
+parking_spot: 100%
+human: 65%
+human: 91%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760166264.png: Predicted in 3109.212000 milli-seconds.
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760179844.png: Predicted in 3162.127000 milli-seconds.
+stop: 100%
+stop: 100%
+right: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655863882.png: Predicted in 3156.495000 milli-seconds.
+curve_left: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892496.png: Predicted in 4021.295000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760197976_mirror.png: Predicted in 4646.407000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760160019.png: Predicted in 4108.146000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655867457_mirror.png: Predicted in 4364.611000 milli-seconds.
+right: 90%
+curve_left: 82%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857502.png: Predicted in 3206.257000 milli-seconds.
+lane: 99%
+lane: 100%
+construction: 69%
+curve_right: 47%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760205446.png: Predicted in 3489.212000 milli-seconds.
+parking: 100%
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760182586_mirror.png: Predicted in 3369.707000 milli-seconds.
+construction: 76%
+curve_right: 57%
+curve_left: 52%
+right: 41%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857832.png: Predicted in 3418.805000 milli-seconds.
+lane: 100%
+stop: 100%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760164569.png: Predicted in 3339.936000 milli-seconds.
+slippery: 100%
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655865587.png: Predicted in 3690.710000 milli-seconds.
+curve_left: 99%
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760170009.png: Predicted in 3381.197000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891561_mirror.png: Predicted in 3760.900000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760175579_mirror.png: Predicted in 3333.787000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760169679.png: Predicted in 3298.171000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760203081.png: Predicted in 3291.431000 milli-seconds.
+curve_left: 94%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655872857.png: Predicted in 3539.541000 milli-seconds.
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655866302.png: Predicted in 3512.762000 milli-seconds.
+curve_left: 61%
+right: 80%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655875058.png: Predicted in 3510.677000 milli-seconds.
+slippery: 100%
+right: 95%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655893597.png: Predicted in 3772.216000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655859153_mirror.png: Predicted in 3605.718000 milli-seconds.
+right: 78%
+curve_left: 37%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655862562.png: Predicted in 3716.861000 milli-seconds.
+parking: 100%
+right: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655895916_mirror.png: Predicted in 3670.733000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655864982.png: Predicted in 3574.300000 milli-seconds.
+human: 99%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655874398.png: Predicted in 3684.375000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891176_mirror.png: Predicted in 3634.566000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760165887.png: Predicted in 3529.267000 milli-seconds.
+parking_spot: 99%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655861463_mirror.png: Predicted in 3524.969000 milli-seconds.
+right: 74%
+curve_left: 32%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655874453.png: Predicted in 3501.849000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655886791.png: Predicted in 3512.566000 milli-seconds.
+lane: 100%
+right: 68%
+curve_left: 92%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655855797.png: Predicted in 3632.286000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760164184.png: Predicted in 3575.689000 milli-seconds.
+stop: 100%
+curve_left: 91%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655875278_mirror.png: Predicted in 3718.862000 milli-seconds.
+right: 74%
+curve_left: 92%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857612.png: Predicted in 3462.892000 milli-seconds.
+lane: 100%
+lane: 100%
+curve_right: 40%
+construction: 75%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891726_mirror.png: Predicted in 4587.346000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857942.png: Predicted in 3765.686000 milli-seconds.
+lane: 100%
+stop: 100%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655872144.png: Predicted in 3468.815000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655886845_mirror.png: Predicted in 3844.809000 milli-seconds.
+right: 50%
+curve_left: 45%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760181329.png: Predicted in 3796.396000 milli-seconds.
+construction: 69%
+curve_right: 39%
+right: 66%
+curve_left: 76%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655867457.png: Predicted in 3612.715000 milli-seconds.
+curve_left: 88%
+right: 96%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655893266.png: Predicted in 3640.749000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857887.png: Predicted in 3645.681000 milli-seconds.
+lane: 100%
+stop: 100%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760164349.png: Predicted in 3594.151000 milli-seconds.
+curve_left: 94%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655858272.png: Predicted in 3649.000000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655897290.png: Predicted in 3824.149000 milli-seconds.
+parking_spot: 28%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655862452.png: Predicted in 3483.834000 milli-seconds.
+parking: 100%
+parking: 100%
+right: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655876268.png: Predicted in 3468.516000 milli-seconds.
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892166_mirror.png: Predicted in 3827.079000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655859812_mirror.png: Predicted in 3625.554000 milli-seconds.
+curve_right: 51%
+construction: 64%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760165229.png: Predicted in 3546.131000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760175304_mirror.png: Predicted in 3469.332000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760180394_mirror.png: Predicted in 3471.512000 milli-seconds.
+curve_right: 59%
+construction: 59%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892826_mirror.png: Predicted in 3415.350000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655868943_mirror.png: Predicted in 3407.711000 milli-seconds.
+human: 100%
+human: 100%
+human: 100%
+human: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655895753.png: Predicted in 3975.492000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655858272_mirror.png: Predicted in 3605.033000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655877092_mirror.png: Predicted in 3846.810000 milli-seconds.
+lane: 100%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655858657_mirror.png: Predicted in 3938.554000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655895806.png: Predicted in 4012.864000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760166539.png: Predicted in 3886.359000 milli-seconds.
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655872527.png: Predicted in 3517.303000 milli-seconds.
+parking: 100%
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655893376.png: Predicted in 3607.565000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655864048.png: Predicted in 3859.985000 milli-seconds.
+curve_left: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896852_mirror.png: Predicted in 4238.177000 milli-seconds.
+right: 71%
+curve_left: 42%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873628.png: Predicted in 3733.037000 milli-seconds.
+right: 69%
+curve_left: 37%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873903.png: Predicted in 3731.364000 milli-seconds.
+right: 48%
+curve_left: 55%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873738_mirror.png: Predicted in 3799.890000 milli-seconds.
+curve_left: 55%
+right: 61%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655864377.png: Predicted in 3518.741000 milli-seconds.
+parking_spot: 100%
+human: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760159854.png: Predicted in 2798.408000 milli-seconds.
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655862067_mirror.png: Predicted in 2880.315000 milli-seconds.
+right: 66%
+curve_left: 41%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655874948.png: Predicted in 2830.677000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892496_mirror.png: Predicted in 2760.618000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655868502.png: Predicted in 2737.653000 milli-seconds.
+human: 99%
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655865477_mirror.png: Predicted in 3242.568000 milli-seconds.
+right: 60%
+curve_left: 49%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896357.png: Predicted in 2801.201000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655872637.png: Predicted in 2992.003000 milli-seconds.
+parking: 100%
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655865532.png: Predicted in 2752.320000 milli-seconds.
+right: 99%
+curve_left: 98%
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655875168.png: Predicted in 2907.041000 milli-seconds.
+right: 60%
+curve_left: 59%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896686_mirror.png: Predicted in 2736.038000 milli-seconds.
+unknown : 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655876378.png: Predicted in 2745.695000 milli-seconds.
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857557.png: Predicted in 2712.616000 milli-seconds.
+lane: 100%
+lane: 100%
+curve_right: 71%
+construction: 82%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655877477.png: Predicted in 2713.421000 milli-seconds.
+curve_left: 42%
+stop: 100%
+right: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655859372.png: Predicted in 2814.412000 milli-seconds.
+right: 75%
+curve_left: 89%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655865643.png: Predicted in 3289.501000 milli-seconds.
+curve_left: 98%
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896466.png: Predicted in 3786.547000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655893706.png: Predicted in 3192.132000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655866412.png: Predicted in 3093.677000 milli-seconds.
+curve_left: 87%
+right: 97%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655897456.png: Predicted in 2826.718000 milli-seconds.
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655861024.png: Predicted in 3002.276000 milli-seconds.
+slippery: 100%
+curve_left: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760164294.png: Predicted in 2888.600000 milli-seconds.
+curve_left: 66%
+right: 36%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655855908.png: Predicted in 2810.783000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655862287_mirror.png: Predicted in 2690.366000 milli-seconds.
+right: 63%
+curve_left: 38%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655872693.png: Predicted in 2758.084000 milli-seconds.
+parking: 100%
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760166759.png: Predicted in 2920.417000 milli-seconds.
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655856623.png: Predicted in 2829.584000 milli-seconds.
+right: 48%
+curve_left: 57%
+right: 93%
+curve_left: 95%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655859922_mirror.png: Predicted in 2840.537000 milli-seconds.
+construction: 81%
+curve_right: 59%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655864597.png: Predicted in 2807.339000 milli-seconds.
+human: 99%
+human: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655878577.png: Predicted in 2691.326000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857283.png: Predicted in 2704.337000 milli-seconds.
+lane: 99%
+curve_right: 53%
+construction: 51%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896357_mirror.png: Predicted in 2718.163000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857667_mirror.png: Predicted in 2716.344000 milli-seconds.
+lane: 100%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655879622.png: Predicted in 2690.904000 milli-seconds.
+slippery: 100%
+curve_left: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892111.png: Predicted in 2690.852000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887121_mirror.png: Predicted in 2720.986000 milli-seconds.
+right: 60%
+curve_left: 55%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760168359.png: Predicted in 2687.350000 milli-seconds.
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655888716.png: Predicted in 2690.426000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655871317_mirror.png: Predicted in 2683.653000 milli-seconds.
+curve_left: 48%
+right: 56%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655895972.png: Predicted in 2710.000000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655878797_mirror.png: Predicted in 2747.284000 milli-seconds.
+right: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655895425_mirror.png: Predicted in 2898.658000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896411.png: Predicted in 2673.908000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655867292.png: Predicted in 2856.171000 milli-seconds.
+curve_left: 81%
+right: 91%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896248.png: Predicted in 2887.473000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655858107_mirror.png: Predicted in 2714.173000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873958.png: Predicted in 2898.056000 milli-seconds.
+right: 57%
+curve_left: 38%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873793.png: Predicted in 2621.956000 milli-seconds.
+right: 93%
+curve_left: 38%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655855302.png: Predicted in 2724.025000 milli-seconds.
+right: 93%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760159909.png: Predicted in 2771.214000 milli-seconds.
+slippery: 100%
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655862232_mirror.png: Predicted in 2779.557000 milli-seconds.
+right: 68%
+curve_left: 30%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760205886.png: Predicted in 2712.899000 milli-seconds.
+parking: 100%
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760165174.png: Predicted in 2655.685000 milli-seconds.
+slippery: 35%
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760170504.png: Predicted in 2555.322000 milli-seconds.
+slippery: 100%
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655863057.png: Predicted in 2889.455000 milli-seconds.
+parking: 100%
+right: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760175084_mirror.png: Predicted in 2624.506000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655863332.png: Predicted in 2845.459000 milli-seconds.
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655856512_mirror.png: Predicted in 2701.914000 milli-seconds.
+right: 44%
+curve_left: 88%
+right: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896906.png: Predicted in 2631.122000 milli-seconds.
+curve_left: 57%
+right: 47%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655877422.png: Predicted in 3042.534000 milli-seconds.
+right: 91%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760164899.png: Predicted in 2851.128000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760198471_mirror.png: Predicted in 2891.185000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655859758_mirror.png: Predicted in 3462.600000 milli-seconds.
+construction: 60%
+curve_right: 54%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655862232.png: Predicted in 2830.682000 milli-seconds.
+right: 67%
+curve_left: 40%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760179514.png: Predicted in 3480.346000 milli-seconds.
+stop: 100%
+stop: 100%
+right: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655875223_mirror.png: Predicted in 2664.131000 milli-seconds.
+right: 90%
+curve_left: 79%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655868227.png: Predicted in 2760.240000 milli-seconds.
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760205831.png: Predicted in 2560.588000 milli-seconds.
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655877532.png: Predicted in 2688.261000 milli-seconds.
+right: 97%
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760185579.png: Predicted in 2720.565000 milli-seconds.
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760158699.png: Predicted in 2644.498000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655897620.png: Predicted in 3593.618000 milli-seconds.
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655877313.png: Predicted in 2847.071000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655861244_mirror.png: Predicted in 3788.763000 milli-seconds.
+curve_left: 64%
+right: 97%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892662_mirror.png: Predicted in 3827.293000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655876927.png: Predicted in 3519.339000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655868447.png: Predicted in 4383.172000 milli-seconds.
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655874178.png: Predicted in 4000.101000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655859317_mirror.png: Predicted in 2745.503000 milli-seconds.
+right: 70%
+curve_left: 93%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655888111_mirror.png: Predicted in 3361.970000 milli-seconds.
+construction: 40%
+curve_right: 52%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760164294_mirror.png: Predicted in 3670.965000 milli-seconds.
+curve_left: 73%
+right: 32%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760169844.png: Predicted in 2771.109000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891726.png: Predicted in 2508.754000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655861078.png: Predicted in 2513.596000 milli-seconds.
+slippery: 100%
+curve_left: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892166.png: Predicted in 2567.912000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655888056_mirror.png: Predicted in 2621.353000 milli-seconds.
+construction: 77%
+curve_right: 73%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655897235.png: Predicted in 2723.653000 milli-seconds.
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760159524.png: Predicted in 2517.175000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896301_mirror.png: Predicted in 2513.974000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760175084.png: Predicted in 2684.295000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760164954.png: Predicted in 3227.333000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892276.png: Predicted in 2564.291000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887066.png: Predicted in 2842.523000 milli-seconds.
+lane: 100%
+curve_left: 64%
+right: 45%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655864817_mirror.png: Predicted in 2527.913000 milli-seconds.
+human: 100%
+human: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655866743.png: Predicted in 2529.793000 milli-seconds.
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760173874.png: Predicted in 2534.868000 milli-seconds.
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760199847.png: Predicted in 2921.698000 milli-seconds.
+lane: 100%
+curve_left: 55%
+right: 37%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655855688.png: Predicted in 2784.467000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760168249.png: Predicted in 2867.250000 milli-seconds.
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655863552.png: Predicted in 2699.356000 milli-seconds.
+curve_left: 99%
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655897125.png: Predicted in 2964.130000 milli-seconds.
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892221_mirror.png: Predicted in 2581.818000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873793_mirror.png: Predicted in 2710.544000 milli-seconds.
+right: 96%
+curve_left: 32%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760199626_mirror.png: Predicted in 2562.135000 milli-seconds.
+curve_left: 57%
+right: 36%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760179789.png: Predicted in 2524.431000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760166209.png: Predicted in 2571.310000 milli-seconds.
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655879512.png: Predicted in 2560.701000 milli-seconds.
+slippery: 100%
+curve_left: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655878852.png: Predicted in 2567.653000 milli-seconds.
+right: 97%
+curve_left: 80%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655858438_mirror.png: Predicted in 2690.679000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655856402_mirror.png: Predicted in 2730.343000 milli-seconds.
+curve_left: 74%
+right: 95%
+curve_left: 71%
+right: 41%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887395.png: Predicted in 2603.407000 milli-seconds.
+right: 72%
+curve_left: 92%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891891.png: Predicted in 2543.295000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655855247_mirror.png: Predicted in 2563.125000 milli-seconds.
+right: 96%
+curve_left: 91%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655861903.png: Predicted in 2528.617000 milli-seconds.
+right: 92%
+curve_left: 93%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891781_mirror.png: Predicted in 2588.897000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655876982.png: Predicted in 2520.892000 milli-seconds.
+lane: 100%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873958_mirror.png: Predicted in 2561.846000 milli-seconds.
+right: 71%
+curve_left: 26%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655863662.png: Predicted in 2619.767000 milli-seconds.
+curve_left: 55%
+right: 94%
+curve_left: 94%
+right: 57%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760175579.png: Predicted in 2791.764000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655864762_mirror.png: Predicted in 2782.760000 milli-seconds.
+human: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655875113.png: Predicted in 2581.127000 milli-seconds.
+slippery: 100%
+right: 97%
+curve_left: 31%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655866357.png: Predicted in 2540.164000 milli-seconds.
+curve_left: 89%
+right: 96%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655862617.png: Predicted in 2715.841000 milli-seconds.
+right: 63%
+curve_left: 52%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760164239.png: Predicted in 2798.989000 milli-seconds.
+curve_left: 57%
+right: 54%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655879457.png: Predicted in 2690.954000 milli-seconds.
+slippery: 100%
+curve_left: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655871922.png: Predicted in 2691.247000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760205666.png: Predicted in 2830.920000 milli-seconds.
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896136.png: Predicted in 2823.086000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891836_mirror.png: Predicted in 2794.475000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887505_mirror.png: Predicted in 2936.219000 milli-seconds.
+curve_left: 93%
+right: 71%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760159414.png: Predicted in 2771.393000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655862287.png: Predicted in 2797.868000 milli-seconds.
+right: 76%
+curve_left: 25%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760159249.png: Predicted in 2617.241000 milli-seconds.
+parking: 100%
+right: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760175909_mirror.png: Predicted in 2628.158000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655877147_mirror.png: Predicted in 2791.760000 milli-seconds.
+lane: 100%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760175304.png: Predicted in 2812.232000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891342.png: Predicted in 2714.654000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655877147.png: Predicted in 2806.335000 milli-seconds.
+lane: 99%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655876433.png: Predicted in 2834.997000 milli-seconds.
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892662.png: Predicted in 2614.197000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873462.png: Predicted in 2790.611000 milli-seconds.
+right: 96%
+curve_left: 60%
+curve_left: 35%
+right: 76%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655893542.png: Predicted in 2828.831000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655872198.png: Predicted in 2959.382000 milli-seconds.
+curve_left: 79%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655876927_mirror.png: Predicted in 2868.336000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655867238.png: Predicted in 3228.116000 milli-seconds.
+curve_left: 67%
+right: 94%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655863827.png: Predicted in 3147.197000 milli-seconds.
+right: 75%
+parking_spot: 97%
+curve_left: 77%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760180614.png: Predicted in 3303.827000 milli-seconds.
+stop: 100%
+right: 100%
+construction: 70%
+curve_right: 42%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760172304.png: Predicted in 3653.269000 milli-seconds.
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655895477_mirror.png: Predicted in 3489.136000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760169575.png: Predicted in 3152.154000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655893486.png: Predicted in 3131.882000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891120.png: Predicted in 3036.050000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655863443.png: Predicted in 3059.614000 milli-seconds.
+stop: 100%
+parking_spot: 100%
+curve_left: 100%
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655868172.png: Predicted in 2878.244000 milli-seconds.
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760166099.png: Predicted in 2840.008000 milli-seconds.
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655867073.png: Predicted in 3022.831000 milli-seconds.
+curve_left: 71%
+right: 71%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655868722.png: Predicted in 2851.209000 milli-seconds.
+parking_spot: 100%
+parking_spot: 100%
+human: 95%
+human: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891231.png: Predicted in 2903.982000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873187.png: Predicted in 2918.928000 milli-seconds.
+right: 83%
+curve_left: 92%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655878467.png: Predicted in 2892.959000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760165119.png: Predicted in 2813.053000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655893431_mirror.png: Predicted in 2825.964000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655888276.png: Predicted in 2655.512000 milli-seconds.
+curve_right: 45%
+construction: 70%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655865312_mirror.png: Predicted in 2635.036000 milli-seconds.
+curve_left: 51%
+right: 48%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655897181.png: Predicted in 2808.268000 milli-seconds.
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655864707_mirror.png: Predicted in 2716.293000 milli-seconds.
+human: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655858438.png: Predicted in 2537.077000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655874232.png: Predicted in 2727.432000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655879072.png: Predicted in 2856.948000 milli-seconds.
+right: 59%
+curve_left: 46%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760158974.png: Predicted in 2737.989000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655879127_mirror.png: Predicted in 2879.670000 milli-seconds.
+right: 46%
+curve_left: 65%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655861903_mirror.png: Predicted in 3354.882000 milli-seconds.
+curve_left: 84%
+right: 93%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655858107.png: Predicted in 2606.992000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655859758.png: Predicted in 2578.297000 milli-seconds.
+construction: 34%
+curve_right: 32%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655865422.png: Predicted in 3074.403000 milli-seconds.
+curve_left: 56%
+right: 38%
+right: 32%
+curve_left: 77%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655855192_mirror.png: Predicted in 2526.937000 milli-seconds.
+right: 96%
+curve_left: 67%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892881.png: Predicted in 2562.048000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857393.png: Predicted in 2516.644000 milli-seconds.
+lane: 100%
+curve_right: 50%
+construction: 43%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760171439.png: Predicted in 2530.816000 milli-seconds.
+parking: 100%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655855963_mirror.png: Predicted in 2806.987000 milli-seconds.
+curve_left: 93%
+right: 76%
+right: 66%
+curve_left: 29%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655867292_mirror.png: Predicted in 2724.003000 milli-seconds.
+right: 82%
+curve_left: 92%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655888276_mirror.png: Predicted in 2614.267000 milli-seconds.
+construction: 69%
+curve_right: 53%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892606.png: Predicted in 2798.179000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655866248.png: Predicted in 2763.503000 milli-seconds.
+right: 53%
+curve_left: 50%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655871372_mirror.png: Predicted in 2579.619000 milli-seconds.
+right: 94%
+curve_left: 86%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655861188.png: Predicted in 2583.453000 milli-seconds.
+curve_left: 34%
+right: 70%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655890845.png: Predicted in 2730.633000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655858657.png: Predicted in 2657.570000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655856293_mirror.png: Predicted in 2630.283000 milli-seconds.
+curve_left: 35%
+right: 85%
+curve_left: 62%
+right: 60%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655877202.png: Predicted in 2633.479000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655868887_mirror.png: Predicted in 2671.415000 milli-seconds.
+human: 100%
+human: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655876982_mirror.png: Predicted in 2739.102000 milli-seconds.
+lane: 100%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655895806_mirror.png: Predicted in 2581.623000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896796.png: Predicted in 2645.048000 milli-seconds.
+curve_left: 83%
+right: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655861792.png: Predicted in 2707.165000 milli-seconds.
+right: 71%
+curve_left: 73%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760172744.png: Predicted in 2677.237000 milli-seconds.
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655874012_mirror.png: Predicted in 2684.845000 milli-seconds.
+right: 58%
+curve_left: 53%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655877202_mirror.png: Predicted in 2623.707000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655875168_mirror.png: Predicted in 2698.787000 milli-seconds.
+right: 69%
+curve_left: 52%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655871647.png: Predicted in 2719.586000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873298.png: Predicted in 2670.907000 milli-seconds.
+right: 80%
+curve_left: 66%
+right: 62%
+curve_left: 43%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891231_mirror.png: Predicted in 2781.091000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655855357.png: Predicted in 2737.328000 milli-seconds.
+curve_left: 54%
+right: 90%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873298_mirror.png: Predicted in 2577.606000 milli-seconds.
+right: 46%
+curve_left: 66%
+right: 51%
+curve_left: 44%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655893321_mirror.png: Predicted in 2549.933000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760170614.png: Predicted in 2642.326000 milli-seconds.
+slippery: 100%
+stop: 100%
+curve_left: 96%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760158864.png: Predicted in 2899.796000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655893542_mirror.png: Predicted in 3419.507000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655859812.png: Predicted in 3452.060000 milli-seconds.
+construction: 52%
+curve_right: 63%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655861738.png: Predicted in 3349.001000 milli-seconds.
+curve_left: 69%
+right: 59%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655897347.png: Predicted in 3329.530000 milli-seconds.
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857447.png: Predicted in 3306.737000 milli-seconds.
+lane: 32%
+lane: 100%
+curve_right: 45%
+construction: 62%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857557_mirror.png: Predicted in 3350.305000 milli-seconds.
+construction: 76%
+curve_right: 76%
+lane: 100%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760181384.png: Predicted in 3252.080000 milli-seconds.
+curve_right: 37%
+construction: 70%
+curve_left: 86%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655893321.png: Predicted in 3379.770000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655863772.png: Predicted in 3257.341000 milli-seconds.
+curve_left: 52%
+right: 85%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655858328.png: Predicted in 3321.120000 milli-seconds.
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873573.png: Predicted in 3092.018000 milli-seconds.
+right: 73%
+curve_left: 37%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655858549.png: Predicted in 3064.104000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891616.png: Predicted in 3073.755000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760204457.png: Predicted in 3287.841000 milli-seconds.
+parking: 100%
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896796_mirror.png: Predicted in 3208.630000 milli-seconds.
+right: 97%
+curve_left: 69%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857997.png: Predicted in 3469.930000 milli-seconds.
+lane: 100%
+stop: 100%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655855853.png: Predicted in 3592.052000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655865807.png: Predicted in 3805.945000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655888166.png: Predicted in 3703.773000 milli-seconds.
+construction: 53%
+curve_right: 53%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760165009.png: Predicted in 3545.625000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655860968.png: Predicted in 3931.503000 milli-seconds.
+slippery: 100%
+curve_left: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760170559.png: Predicted in 4099.292000 milli-seconds.
+slippery: 100%
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655871208.png: Predicted in 3736.540000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655878962.png: Predicted in 3719.760000 milli-seconds.
+right: 69%
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873573_mirror.png: Predicted in 3634.589000 milli-seconds.
+right: 52%
+curve_left: 52%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655888661.png: Predicted in 3665.345000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891011.png: Predicted in 5121.526000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887230_mirror.png: Predicted in 5498.780000 milli-seconds.
+curve_left: 63%
+right: 96%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760204622.png: Predicted in 4529.572000 milli-seconds.
+parking: 100%
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891011_mirror.png: Predicted in 3674.126000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655893376_mirror.png: Predicted in 4016.419000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655863387.png: Predicted in 3843.863000 milli-seconds.
+curve_left: 100%
+parking_spot: 100%
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760166594.png: Predicted in 4166.548000 milli-seconds.
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760198086_mirror.png: Predicted in 5435.020000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655875223.png: Predicted in 4203.626000 milli-seconds.
+right: 53%
+curve_left: 51%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857667.png: Predicted in 5282.300000 milli-seconds.
+lane: 100%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873353_mirror.png: Predicted in 5285.074000 milli-seconds.
+right: 65%
+curve_left: 95%
+right: 63%
+curve_left: 49%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760181439.png: Predicted in 5713.343000 milli-seconds.
+right: 39%
+curve_left: 62%
+construction: 68%
+curve_right: 41%
+right: 53%
+curve_left: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655868777.png: Predicted in 3710.805000 milli-seconds.
+parking_spot: 36%
+parking_spot: 100%
+human: 100%
+human: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655895861.png: Predicted in 5638.064000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887121.png: Predicted in 3609.388000 milli-seconds.
+lane: 100%
+right: 65%
+curve_left: 60%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857227.png: Predicted in 3430.409000 milli-seconds.
+lane: 100%
+curve_right: 60%
+construction: 65%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760199847_mirror.png: Predicted in 5988.116000 milli-seconds.
+right: 50%
+curve_left: 47%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655863992.png: Predicted in 3984.651000 milli-seconds.
+parking_spot: 100%
+curve_left: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760198471.png: Predicted in 3467.776000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760174094.png: Predicted in 3491.080000 milli-seconds.
+parking: 100%
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892772.png: Predicted in 3547.404000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891451.png: Predicted in 3343.920000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760179679.png: Predicted in 3688.885000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655865972_mirror.png: Predicted in 3474.859000 milli-seconds.
+right: 56%
+curve_left: 60%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655866687.png: Predicted in 3400.982000 milli-seconds.
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655867622_mirror.png: Predicted in 3190.180000 milli-seconds.
+right: 47%
+curve_left: 57%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760159579.png: Predicted in 3187.013000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892441_mirror.png: Predicted in 4790.442000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887561_mirror.png: Predicted in 4620.817000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896136_mirror.png: Predicted in 3897.148000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655879017.png: Predicted in 3846.594000 milli-seconds.
+curve_left: 72%
+right: 93%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655865917_mirror.png: Predicted in 3209.134000 milli-seconds.
+right: 94%
+curve_left: 88%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655855963.png: Predicted in 3176.616000 milli-seconds.
+curve_left: 42%
+right: 72%
+right: 88%
+curve_left: 85%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760204731.png: Predicted in 3218.497000 milli-seconds.
+parking: 100%
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891616_mirror.png: Predicted in 3168.183000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655886901_mirror.png: Predicted in 3073.331000 milli-seconds.
+curve_left: 83%
+right: 89%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655893266_mirror.png: Predicted in 3103.923000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655865477.png: Predicted in 3071.244000 milli-seconds.
+right: 49%
+curve_left: 65%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655865862.png: Predicted in 3278.237000 milli-seconds.
+stop: 100%
+right: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887011.png: Predicted in 3074.833000 milli-seconds.
+lane: 100%
+right: 64%
+curve_left: 93%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655856843.png: Predicted in 3467.495000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873738.png: Predicted in 3434.624000 milli-seconds.
+right: 56%
+curve_left: 51%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655864597_mirror.png: Predicted in 3227.667000 milli-seconds.
+human: 100%
+human: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760181439_mirror.png: Predicted in 3487.122000 milli-seconds.
+curve_left: 99%
+right: 69%
+construction: 63%
+curve_right: 30%
+curve_left: 53%
+right: 66%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655858549_mirror.png: Predicted in 5349.550000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655895641.png: Predicted in 3676.775000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892221.png: Predicted in 3890.092000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760199681_mirror.png: Predicted in 3999.337000 milli-seconds.
+right: 96%
+curve_left: 57%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655866577.png: Predicted in 3879.790000 milli-seconds.
+right: 97%
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760171274.png: Predicted in 4161.424000 milli-seconds.
+parking: 100%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760174369.png: Predicted in 3695.336000 milli-seconds.
+parking: 100%
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655863112.png: Predicted in 3557.495000 milli-seconds.
+parking: 100%
+right: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655861298.png: Predicted in 4715.882000 milli-seconds.
+right: 94%
+curve_left: 68%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655888221.png: Predicted in 3548.340000 milli-seconds.
+curve_right: 55%
+construction: 47%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655864432.png: Predicted in 3756.712000 milli-seconds.
+human: 100%
+parking_spot: 100%
+human: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896906_mirror.png: Predicted in 4404.711000 milli-seconds.
+right: 53%
+curve_left: 60%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655893597_mirror.png: Predicted in 3453.209000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892111_mirror.png: Predicted in 3707.706000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892331.png: Predicted in 3264.831000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760175469_mirror.png: Predicted in 3233.917000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760203191.png: Predicted in 3230.104000 milli-seconds.
+right: 29%
+curve_left: 90%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655888331_mirror.png: Predicted in 3668.918000 milli-seconds.
+curve_right: 41%
+construction: 50%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655863607_mirror.png: Predicted in 3167.139000 milli-seconds.
+curve_left: 64%
+right: 49%
+curve_left: 89%
+right: 92%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655874122.png: Predicted in 3388.204000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887341.png: Predicted in 3840.877000 milli-seconds.
+right: 80%
+curve_left: 90%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655868392.png: Predicted in 4415.442000 milli-seconds.
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760175249.png: Predicted in 3290.563000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760182586.png: Predicted in 3201.100000 milli-seconds.
+curve_left: 66%
+right: 33%
+curve_right: 59%
+construction: 77%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760179624.png: Predicted in 3212.814000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887505.png: Predicted in 3435.465000 milli-seconds.
+lane: 100%
+right: 87%
+curve_left: 90%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655863167.png: Predicted in 3654.572000 milli-seconds.
+parking: 100%
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760166374.png: Predicted in 5353.776000 milli-seconds.
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655897511.png: Predicted in 3906.756000 milli-seconds.
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760159194.png: Predicted in 3757.050000 milli-seconds.
+parking: 100%
+right: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655864487.png: Predicted in 5335.352000 milli-seconds.
+human: 100%
+parking_spot: 100%
+human: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857007.png: Predicted in 4165.591000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655866302_mirror.png: Predicted in 5444.692000 milli-seconds.
+right: 65%
+curve_left: 38%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655860913.png: Predicted in 5210.480000 milli-seconds.
+slippery: 100%
+curve_left: 94%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655868832.png: Predicted in 5111.508000 milli-seconds.
+human: 100%
+human: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655863772_mirror.png: Predicted in 5510.744000 milli-seconds.
+curve_left: 42%
+right: 82%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887066_mirror.png: Predicted in 3471.384000 milli-seconds.
+right: 46%
+curve_left: 66%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655879017_mirror.png: Predicted in 3639.217000 milli-seconds.
+right: 91%
+curve_left: 35%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655888331.png: Predicted in 3905.108000 milli-seconds.
+curve_right: 48%
+construction: 46%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896521_mirror.png: Predicted in 3331.305000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655878357.png: Predicted in 3336.373000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655859922.png: Predicted in 3381.552000 milli-seconds.
+curve_right: 56%
+construction: 88%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760166154.png: Predicted in 3544.616000 milli-seconds.
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655855412.png: Predicted in 3613.507000 milli-seconds.
+curve_left: 86%
+right: 78%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655861848_mirror.png: Predicted in 3264.374000 milli-seconds.
+right: 94%
+curve_left: 65%
+curve_left: 34%
+right: 96%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655893653.png: Predicted in 3659.641000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873187_mirror.png: Predicted in 3117.520000 milli-seconds.
+right: 85%
+curve_left: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760159799.png: Predicted in 3189.830000 milli-seconds.
+parking: 100%
+right: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655888111.png: Predicted in 3550.803000 milli-seconds.
+curve_right: 54%
+construction: 42%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760181329_mirror.png: Predicted in 6392.245000 milli-seconds.
+right: 64%
+curve_left: 85%
+construction: 71%
+curve_right: 39%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655877037_mirror.png: Predicted in 4839.055000 milli-seconds.
+lane: 100%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655872802.png: Predicted in 4854.225000 milli-seconds.
+parking: 83%
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760198086.png: Predicted in 4623.458000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892386.png: Predicted in 4747.753000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892001.png: Predicted in 5087.947000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655865422_mirror.png: Predicted in 5391.167000 milli-seconds.
+curve_left: 54%
+right: 68%
+curve_left: 54%
+right: 45%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887561.png: Predicted in 4994.900000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655886791_mirror.png: Predicted in 4818.677000 milli-seconds.
+curve_left: 81%
+right: 79%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655895696.png: Predicted in 6141.098000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655877257.png: Predicted in 4299.732000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655868117.png: Predicted in 3954.331000 milli-seconds.
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892826.png: Predicted in 4226.900000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655855247.png: Predicted in 3804.664000 milli-seconds.
+curve_left: 93%
+right: 94%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655867622.png: Predicted in 3428.158000 milli-seconds.
+right: 50%
+curve_left: 66%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655862013_mirror.png: Predicted in 3340.879000 milli-seconds.
+curve_left: 78%
+right: 54%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760160074.png: Predicted in 3317.087000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873903_mirror.png: Predicted in 3703.110000 milli-seconds.
+right: 69%
+curve_left: 30%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892056.png: Predicted in 3546.508000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760165064.png: Predicted in 4027.584000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655867677.png: Predicted in 3644.646000 milli-seconds.
+right: 97%
+right: 32%
+curve_left: 77%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655856732.png: Predicted in 3615.364000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896742_mirror.png: Predicted in 3208.968000 milli-seconds.
+unknown : 100%
+right: 88%
+curve_left: 46%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857283_mirror.png: Predicted in 3939.150000 milli-seconds.
+construction: 50%
+curve_right: 45%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655867732.png: Predicted in 3228.317000 milli-seconds.
+right: 94%
+curve_left: 54%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896742.png: Predicted in 3857.147000 milli-seconds.
+curve_left: 76%
+right: 93%
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891671_mirror.png: Predicted in 3277.460000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655855744.png: Predicted in 3130.857000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760175964.png: Predicted in 3330.437000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892936.png: Predicted in 3346.823000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655856787.png: Predicted in 3512.157000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760197874.png: Predicted in 3280.489000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655865972.png: Predicted in 3505.685000 milli-seconds.
+curve_left: 81%
+right: 36%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655862507.png: Predicted in 4288.450000 milli-seconds.
+parking: 100%
+parking: 100%
+right: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655866522_mirror.png: Predicted in 3489.469000 milli-seconds.
+right: 40%
+curve_left: 97%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760180449_mirror.png: Predicted in 3705.315000 milli-seconds.
+construction: 65%
+curve_right: 60%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760159689.png: Predicted in 3446.354000 milli-seconds.
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760164624.png: Predicted in 3452.105000 milli-seconds.
+slippery: 100%
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655897841.png: Predicted in 3436.694000 milli-seconds.
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896521.png: Predicted in 3561.467000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873243_mirror.png: Predicted in 3999.380000 milli-seconds.
+right: 50%
+curve_left: 73%
+right: 72%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655893486_mirror.png: Predicted in 4105.999000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655866852.png: Predicted in 4160.646000 milli-seconds.
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655866962_mirror.png: Predicted in 4136.783000 milli-seconds.
+curve_left: 62%
+right: 45%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655863607.png: Predicted in 3513.140000 milli-seconds.
+right: 92%
+curve_left: 76%
+curve_left: 46%
+right: 45%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857227_mirror.png: Predicted in 3474.525000 milli-seconds.
+construction: 65%
+curve_right: 59%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655893211.png: Predicted in 3702.668000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760200067_mirror.png: Predicted in 3457.309000 milli-seconds.
+right: 61%
+curve_left: 46%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655867567_mirror.png: Predicted in 3675.565000 milli-seconds.
+curve_left: 47%
+right: 81%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857172_mirror.png: Predicted in 3499.092000 milli-seconds.
+construction: 72%
+curve_right: 54%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760168139.png: Predicted in 3013.400000 milli-seconds.
+parking_spot: 100%
+parking_spot: 62%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655861353_mirror.png: Predicted in 3127.061000 milli-seconds.
+right: 64%
+curve_left: 45%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655890901_mirror.png: Predicted in 3033.787000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655897401.png: Predicted in 3138.701000 milli-seconds.
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655895861_mirror.png: Predicted in 3926.244000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655877092.png: Predicted in 5006.035000 milli-seconds.
+lane: 100%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655858493_mirror.png: Predicted in 4127.720000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655861298_mirror.png: Predicted in 4816.957000 milli-seconds.
+curve_left: 73%
+right: 93%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760199131_mirror.png: Predicted in 4459.930000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896081_mirror.png: Predicted in 3596.745000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655878522.png: Predicted in 5700.985000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655856073.png: Predicted in 6054.797000 milli-seconds.
+slippery: 100%
+right: 99%
+curve_left: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655863938.png: Predicted in 4810.611000 milli-seconds.
+curve_left: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760205501.png: Predicted in 5005.225000 milli-seconds.
+parking: 100%
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887285.png: Predicted in 3678.788000 milli-seconds.
+right: 50%
+curve_left: 52%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892276_mirror.png: Predicted in 4192.817000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655856348_mirror.png: Predicted in 4032.754000 milli-seconds.
+curve_left: 85%
+right: 94%
+right: 46%
+curve_left: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655866357_mirror.png: Predicted in 4883.391000 milli-seconds.
+right: 89%
+curve_left: 86%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760205611.png: Predicted in 4854.240000 milli-seconds.
+parking: 100%
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891066.png: Predicted in 5656.557000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891396.png: Predicted in 5325.917000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655866632.png: Predicted in 5192.607000 milli-seconds.
+right: 28%
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655859262.png: Predicted in 5257.135000 milli-seconds.
+right: 92%
+curve_left: 63%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896193.png: Predicted in 3673.569000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655859372_mirror.png: Predicted in 3668.779000 milli-seconds.
+curve_left: 88%
+right: 74%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896193_mirror.png: Predicted in 3800.885000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873683_mirror.png: Predicted in 3855.980000 milli-seconds.
+curve_left: 82%
+right: 95%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760174259.png: Predicted in 4118.770000 milli-seconds.
+parking: 100%
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655874068.png: Predicted in 5010.727000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655861792_mirror.png: Predicted in 3604.035000 milli-seconds.
+right: 41%
+curve_left: 69%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655862344.png: Predicted in 3078.004000 milli-seconds.
+parking: 100%
+right: 97%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892936_mirror.png: Predicted in 3346.490000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655855192.png: Predicted in 4255.025000 milli-seconds.
+curve_left: 72%
+right: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655859262_mirror.png: Predicted in 4552.191000 milli-seconds.
+curve_left: 44%
+right: 96%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760172634.png: Predicted in 4260.809000 milli-seconds.
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655877313_mirror.png: Predicted in 4163.514000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896576_mirror.png: Predicted in 4612.935000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655878852_mirror.png: Predicted in 4824.576000 milli-seconds.
+curve_left: 84%
+right: 93%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760166869.png: Predicted in 4201.170000 milli-seconds.
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655865312.png: Predicted in 4147.752000 milli-seconds.
+right: 67%
+curve_left: 44%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887451_mirror.png: Predicted in 5246.650000 milli-seconds.
+curve_left: 68%
+right: 88%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655864927.png: Predicted in 3424.234000 milli-seconds.
+human: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655856457.png: Predicted in 3803.577000 milli-seconds.
+curve_left: 67%
+right: 73%
+curve_left: 77%
+right: 55%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655888605.png: Predicted in 4309.466000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655888166_mirror.png: Predicted in 5612.394000 milli-seconds.
+curve_right: 60%
+construction: 63%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655886901.png: Predicted in 3960.759000 milli-seconds.
+lane: 100%
+right: 91%
+curve_left: 86%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655863497.png: Predicted in 4476.485000 milli-seconds.
+stop: 100%
+parking_spot: 100%
+curve_left: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655877588.png: Predicted in 4257.292000 milli-seconds.
+stop: 100%
+right: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887725.png: Predicted in 4331.540000 milli-seconds.
+right: 78%
+curve_left: 28%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655856182.png: Predicted in 3868.634000 milli-seconds.
+slippery: 100%
+right: 99%
+curve_left: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655868943.png: Predicted in 5485.362000 milli-seconds.
+human: 100%
+human: 100%
+human: 100%
+human: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655863002.png: Predicted in 3958.662000 milli-seconds.
+parking: 100%
+parking: 100%
+right: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655869107.png: Predicted in 3395.522000 milli-seconds.
+human: 100%
+parking_spot: 100%
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857447_mirror.png: Predicted in 3605.906000 milli-seconds.
+construction: 55%
+curve_right: 66%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655861738_mirror.png: Predicted in 4807.928000 milli-seconds.
+right: 60%
+curve_left: 79%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655865753.png: Predicted in 4110.338000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887615_mirror.png: Predicted in 6632.967000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655897565.png: Predicted in 3201.708000 milli-seconds.
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655893653_mirror.png: Predicted in 3156.834000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655886956.png: Predicted in 4118.626000 milli-seconds.
+lane: 100%
+right: 56%
+curve_left: 58%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655872252.png: Predicted in 4236.528000 milli-seconds.
+stop: 100%
+right: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655893211_mirror.png: Predicted in 4571.407000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655867073_mirror.png: Predicted in 3287.976000 milli-seconds.
+right: 76%
+curve_left: 66%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896411_mirror.png: Predicted in 3177.580000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760197921_mirror.png: Predicted in 3551.703000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655863222.png: Predicted in 3867.003000 milli-seconds.
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655895425.png: Predicted in 4023.338000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896026.png: Predicted in 4009.351000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873462_mirror.png: Predicted in 3582.978000 milli-seconds.
+right: 71%
+curve_left: 43%
+curve_left: 60%
+right: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896248_mirror.png: Predicted in 3390.473000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655861848.png: Predicted in 4802.513000 milli-seconds.
+right: 97%
+curve_left: 47%
+curve_left: 50%
+right: 93%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760172524.png: Predicted in 4599.502000 milli-seconds.
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760197874_mirror.png: Predicted in 3509.743000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655863717_mirror.png: Predicted in 4386.042000 milli-seconds.
+right: 79%
+curve_left: 32%
+curve_left: 80%
+right: 60%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891947.png: Predicted in 4393.598000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873408.png: Predicted in 3299.914000 milli-seconds.
+curve_left: 59%
+right: 55%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655878412.png: Predicted in 4305.037000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655865038.png: Predicted in 4169.597000 milli-seconds.
+human: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655872087.png: Predicted in 3955.192000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760198856_mirror.png: Predicted in 3409.916000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760169899.png: Predicted in 3488.985000 milli-seconds.
+slippery: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892551_mirror.png: Predicted in 5627.320000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655874288.png: Predicted in 4956.452000 milli-seconds.
+slippery: 100%
+right: 94%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892331_mirror.png: Predicted in 3912.847000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655895586_mirror.png: Predicted in 4251.950000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896081.png: Predicted in 4072.165000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873408_mirror.png: Predicted in 3547.046000 milli-seconds.
+curve_left: 64%
+right: 53%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760197976.png: Predicted in 3240.243000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760158534.png: Predicted in 3141.382000 milli-seconds.
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655856677.png: Predicted in 3224.142000 milli-seconds.
+stop: 100%
+right: 86%
+curve_left: 94%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760182854.png: Predicted in 3370.252000 milli-seconds.
+curve_left: 97%
+curve_left: 99%
+construction: 76%
+curve_right: 37%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655855412_mirror.png: Predicted in 3366.593000 milli-seconds.
+right: 84%
+curve_left: 78%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655866962.png: Predicted in 3453.184000 milli-seconds.
+curve_left: 47%
+right: 69%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655877257_mirror.png: Predicted in 3604.969000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655856402.png: Predicted in 3534.240000 milli-seconds.
+curve_left: 69%
+right: 52%
+right: 96%
+curve_left: 84%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655866467_mirror.png: Predicted in 3457.309000 milli-seconds.
+curve_left: 54%
+right: 63%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760159304.png: Predicted in 3758.156000 milli-seconds.
+slippery: 100%
+parking: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857722.png: Predicted in 3612.810000 milli-seconds.
+lane: 100%
+stop: 100%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655866412_mirror.png: Predicted in 3628.703000 milli-seconds.
+right: 95%
+curve_left: 54%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655872307.png: Predicted in 3727.429000 milli-seconds.
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655873628_mirror.png: Predicted in 3695.254000 milli-seconds.
+right: 82%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896301.png: Predicted in 3695.579000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655879292.png: Predicted in 3685.093000 milli-seconds.
+slippery: 100%
+curve_left: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892386_mirror.png: Predicted in 3453.534000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655886956_mirror.png: Predicted in 3696.752000 milli-seconds.
+right: 48%
+curve_left: 50%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655892001_mirror.png: Predicted in 3505.403000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655895753_mirror.png: Predicted in 3552.149000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760180394.png: Predicted in 3678.337000 milli-seconds.
+curve_right: 62%
+construction: 63%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655864872.png: Predicted in 3521.019000 milli-seconds.
+human: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655893706_mirror.png: Predicted in 3291.413000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655862013.png: Predicted in 3060.002000 milli-seconds.
+right: 56%
+curve_left: 73%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655861408.png: Predicted in 3174.900000 milli-seconds.
+right: 93%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655867017_mirror.png: Predicted in 3855.517000 milli-seconds.
+right: 68%
+curve_left: 78%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655871427.png: Predicted in 3808.849000 milli-seconds.
+curve_left: 91%
+right: 87%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655857612_mirror.png: Predicted in 3345.874000 milli-seconds.
+curve_right: 42%
+construction: 56%
+lane: 100%
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760175964_mirror.png: Predicted in 3883.689000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655895531.png: Predicted in 3022.829000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655896631_mirror.png: Predicted in 3117.287000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655875278.png: Predicted in 3690.734000 milli-seconds.
+curve_left: 95%
+right: 63%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655868557.png: Predicted in 3046.267000 milli-seconds.
+human: 100%
+parking_spot: 100%
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655858602.png: Predicted in 4014.089000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760168084.png: Predicted in 4125.155000 milli-seconds.
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655869052.png: Predicted in 3858.475000 milli-seconds.
+human: 100%
+human: 100%
+parking_spot: 100%
+parking_spot: 100%
+parking_spot: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891506.png: Predicted in 3620.380000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655893761_mirror.png: Predicted in 4621.364000 milli-seconds.
+unknown : 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655887615.png: Predicted in 3917.508000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655893431.png: Predicted in 3445.644000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760197921.png: Predicted in 3655.489000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159760170449.png: Predicted in 3445.758000 milli-seconds.
+slippery: 100%
+stop: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655858052.png: Predicted in 3716.946000 milli-seconds.
+lane: 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655891286.png: Predicted in 3443.733000 milli-seconds.
+unknown : 100%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+data/images/159655858383.png: Predicted in 3378.856000 milli-seconds.
+parking: 100%
+Enter Image Path: 
